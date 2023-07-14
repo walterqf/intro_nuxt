@@ -1,0 +1,9 @@
+body {
+  position: relative;
+  padding-bottom: 8rem;
+  min-height:100vh;
+}
+p {
+  padding-top: 5%;
+  text-align: justify;
+}
